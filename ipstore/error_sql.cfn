@@ -1,0 +1,840 @@
+20/09/2018 01:47:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537408042 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:48:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537408103 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:49:36 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537408176 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:50:20 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537408220 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:51:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537408312 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:52:14 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537408334 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:53:19 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537408399 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 01:53:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537408413 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:03:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537409026 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:04:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537409073 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:06:50 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541631600,new_create_time = 1537409210 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:09:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537409399 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:10:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537409421 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:15:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537409722 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:15:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537409730 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:16:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537409784 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:18:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537409880 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:18:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537409903 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:18:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537409926 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:19:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537409973 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:20:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537410034 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:23:29 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538690400,new_create_time = 1537410209 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:24:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537410277 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:25:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537410301 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:25:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537410316 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:25:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537410316 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:25:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537410332 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:27:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537410475 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:28:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1548889200,new_create_time = 1537410521 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:29:04 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's house - bờm store - jenny party mới nhất 2018','Tìm việcNhân Viên M' at line 1
+INSERT INTO new_multi(new_id,new_mota,new_yeucau,new_quyenloi,meta_title,meta_desc,meta_keywork)VALUES('370809','- Triển khai các chiến dịch Marketing trên các kênh online: SMS, Google ads, Facebook ads&hellip; <br />- Phân tích, đánh giá hiệu quả trên các kênh đang chạy. <br />- Lập báo cáo theo tháng và theo chiến dịch <br />- Lên kế hoạch, sử dụng các công cụ hỗ trợ SEO để tối ưu on &ndash; page, off-page <br />- Phối hợp với team nội dung để triển khai các bài tin phù hợp xu hướng, chiến dịch từ khóa, tăng traffic cho website <br />- Hỗ trợ bộ phận Marketing triển khai các hoạt động marketing khác theo sự phân công của quản lý.','- Tốt nghiệp cao đẳng trở lên các chuyên ngành liên quan đến Digital Marketing, Truyền thông...<br />- Có kinh nghiệm làm việc tại vị trí tương đương ít nhất 1 năm. <br />- Có kinh nghiệm thực tế, triển khai các chiến dịch Marketing trên các kênh online Marketing (Facebook, Adwords, SEO, Adnetworks, Forum...) là một lợi thế lớn.<br />- Đã từng chạy quảng cáo facebook và google.<br />- Sử dụng thành thạo các công cụ như: Google Search Console, Analytics&hellip; là một lợi thế<br />- Là người năng động, tự tin, sáng tạo không ngừng và có sự đầu tư cho công việc<br />- Chăm chỉ, hòa đồng, nhiệt tình, có tinh thần trách nhiệm trong công việc<br />- Có khả năng làm việc độc lập và theo nhóm','- Lương khởi điểm: 7.000.000 , sau 3 tháng thỏa thuận theo năng lực <br />- Chế độ đãi ngộ, BH theo đúng quy định của công ty <br />- Làm việc trong môi trường chuyên nghiệp','Tìm việc Nhân Viên Marketing | vieclam24h.net.vn','Tìm việc Nhân Viên Marketing tại hệ thống cửa hàng nana's house - bờm store - jenny party mới nhất 2018','Tìm việcNhân Viên Marketing') /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:29:19 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537410559 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:31:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537410661 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:34:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537410872 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:38:48 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537411128 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:42:04 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537411324 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:42:12 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537411332 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:42:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539208800,new_create_time = 1537411372 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:46:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537411578 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:49:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537411785 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:54:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537412072 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 02:54:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537412087 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:03:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537412611 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:05:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537412746 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:06:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537999200,new_create_time = 1537412784 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:11:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537413094 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:11:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537413116 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:12:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537413138 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:13:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537413234 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:15:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537413310 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:18:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1542927600,new_create_time = 1537413501 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:19:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537413561 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:19:44 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541458800,new_create_time = 1537413584 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:23:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537413798 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:23:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537413835 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:26:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537826400,new_create_time = 1537413961 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:26:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537413983 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:26:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539900000,new_create_time = 1537413997 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:27:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537414028 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:27:51 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537414071 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:29:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537414172 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:32:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537414357 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:32:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537414365 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:33:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539727200,new_create_time = 1537414418 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:41:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537414903 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:42:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537414958 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:44:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537415071 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:47:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537415246 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:48:12 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537415292 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:51:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537415463 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:52:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537415551 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:54:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537415646 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:54:14 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537415654 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:57:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537415830 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:58:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537415934 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:59:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1542927600,new_create_time = 1537415949 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 03:59:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537415994 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:03:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1548889200,new_create_time = 1537416220 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:06:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537416377 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:08:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537416512 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:15:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537416910 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:17:57 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537417077 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:24:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537912800,new_create_time = 1537417441 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:24:39 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537417479 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:25:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537417538 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:27:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537417679 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:29:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1537417799 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:31:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537417870 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:31:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537417877 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:33:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1548889200,new_create_time = 1537418025 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:35:07 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537418107 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:37:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537418260 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:39:49 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537418389 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:43:39 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537418619 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:44:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537418650 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:45:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537418747 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:47:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537418858 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:47:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537418866 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:55:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537419352 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:57:20 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537419440 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:59:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537419548 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 04:59:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537419556 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:00:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537419600 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:02:02 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537419722 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:02:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539727200,new_create_time = 1537419744 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:02:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539727200,new_create_time = 1537419744 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:03:49 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537419829 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:08:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537420080 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:09:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420158 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:12:48 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537420368 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:13:12 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420392 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:16:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420581 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:18:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420683 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:18:11 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537420691 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:18:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420736 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:19:19 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537420759 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:19:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537740000,new_create_time = 1537420796 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:20:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537420841 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:22:02 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537420922 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:22:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537420929 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:26:42 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537421202 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:28:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537421310 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:33:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539468000,new_create_time = 1537421610 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:38:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537421923 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:41:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422119 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:44:02 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537422242 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:45:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422326 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:45:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422333 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:46:04 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537422364 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:50:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537422606 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:52:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537422720 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:52:07 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422727 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:52:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422765 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:53:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537422781 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:55:42 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537422942 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:55:50 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537422950 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:56:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537422966 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:56:14 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537422974 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 05:59:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OREAL VIỆT NAM - NHÃN HÀNG MỸ PHẨM VICHY - CT CP DV PHÂN PHỐI TỔNG ' at line 1
+INSERT INTO new_multi(new_id,new_mota,new_yeucau,new_quyenloi,meta_title,meta_desc,meta_keywork)VALUES('372746','<p>- Thực hiện các công việc tư vấn, chăm sóc da cho khách hàng<br />+ Tư vấn và Bán các sản phẩm VICHY làm đẹp da phù hợp cho khách hàng<br />+ Chăm sóc Massage da mặt khách hàng theo liệu trình<br />Địa chỉ làm việc: 143 Bà Triệu, Quận Hai Bà Trưng, Thành phố Hà Nội<br />hoặc: 93 Kim Mã, Quận Ba Đình, Thành phố Hà Nội<br />hoặc: 135 Thái Hà, Quận Đống Đa, Thành phố Hà Nội</p>','<p>- Nữ, tuổi từ 22- 39, ngoại hình ưa nhìn, làn da khỏe, giao tiếp tốt, không nói ngọng, không nói giọng địa phương, <br />- Có khả năng gắn bó lâu dài<br />- Khả năng thuyết phục khách hàng cao<br />- Ưu tiên có kinh nghiệm trong ngành mỹ phẩm, spa</p>','<p>- Cơ hội trở thành Thành viên của tập đoàn Mỹ Phẩm loreal VN<br />- Lương cơ bản + hoa hồng doanh thu bán hàng+ thưởng<br />- Được làm việc trong môi trường chuyên nghiệp, năng động, thường xuyên tiếp xúc với khách hàng Vip<br />- Được học về mỹ phẩm, trang điểm, massage mặt cơ bản, dùng máy móc ...<br />- Được đóng BHXH, các chế độ đãi ngộ khác</p>','Tìm việc Nhân Viên Tư Vấn Bán Hàng Mỹ Phẩm Kiêm Kỹ Thuật Viên Spa 2018','Tìm việc Nhân Viên Tư Vấn Bán Hàng Mỹ Phẩm Kiêm Kỹ Thuật Viên Spa 2018 tại TẬP ĐOÀN L'OREAL VIỆT NAM - NHÃN HÀNG MỸ PHẨM VICHY - CT CP DV PHÂN PHỐI TỔNG HỢP QUỐC TẾ','Tìm việc Nhân Viên Tư Vấn Bán Hàng Mỹ Phẩm Kiêm Kỹ Thuật Viên Spa') /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:01:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537423290 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:04:39 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1544655600,new_create_time = 1537423479 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:11:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1544310000,new_create_time = 1537423860 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:12:50 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537826400,new_create_time = 1537423970 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:15:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424106 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:16:20 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1537424180 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:16:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424203 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:17:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537424263 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:18:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424295 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:19:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537424396 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:20:11 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424411 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:20:27 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537424427 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:22:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537424530 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:24:27 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424667 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:24:58 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537424698 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:25:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424738 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:26:25 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424785 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:26:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537424806 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:27:29 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537424849 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:30:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537425016 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:31:25 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537425085 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:36:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538344800,new_create_time = 1537425375 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:39:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537425555 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:39:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543186800,new_create_time = 1537425562 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:41:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537425701 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:42:05 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538517600,new_create_time = 1537425725 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:43:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537425781 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:44:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537425862 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:45:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537425947 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:49:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537426166 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:49:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537426173 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:52:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541631600,new_create_time = 1537426337 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:52:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537426365 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:53:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537426395 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:54:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539727200,new_create_time = 1537426448 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:54:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537426492 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:59:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1545087600,new_create_time = 1537426741 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 06:59:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537426764 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:01:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537426869 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:01:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537426891 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:02:36 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537426956 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:04:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537427070 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:04:38 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537427078 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:05:29 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537427129 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:11:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537427460 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:11:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537427468 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:12:53 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537427573 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:14:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543446000,new_create_time = 1537427650 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:14:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537427696 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:17:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539208800,new_create_time = 1537427842 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:18:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537427921 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:20:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537428026 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:20:49 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537428049 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:22:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537428138 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:23:11 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537428191 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:27:58 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537567200,new_create_time = 1537428478 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:29:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537428561 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:30:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537428630 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:31:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537428707 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:32:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537428737 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:35:05 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537428905 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:35:28 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1542063600,new_create_time = 1537428928 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:36:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537428975 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:37:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429056 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:37:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539208800,new_create_time = 1537429063 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:40:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1542841200,new_create_time = 1537429216 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:41:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429286 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:41:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429294 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:43:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537429380 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:44:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429456 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:45:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429516 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:47:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537429620 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:47:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538085600,new_create_time = 1537429643 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:48:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537429712 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:51:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537429906 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:57:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537430221 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 07:57:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537430266 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:00:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537430423 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:02:28 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537430548 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:03:12 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537430592 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:03:35 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537430615 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:04:51 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537430691 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:07:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538172000,new_create_time = 1537430879 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:09:19 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1537430959 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:11:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431069 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:11:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431090 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:12:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431143 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:13:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537431188 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:13:53 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540504800,new_create_time = 1537431233 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:14:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537431249 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:15:25 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431325 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:19:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431550 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:19:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537431595 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:21:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540677600,new_create_time = 1537431670 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:21:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537431715 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:25:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537431933 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:26:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537432003 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:30:25 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537432225 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:33:44 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539295200,new_create_time = 1537432424 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:36:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537432566 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:36:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537432615 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:39:11 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537432751 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:39:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537432787 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537433186 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:48:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537433283 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:49:04 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537433344 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:52:02 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537433522 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 08:52:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537433529 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:02:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537434165 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:04:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537434294 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:05:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537434318 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:09:39 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537434579 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:09:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540854000,new_create_time = 1537434586 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:12:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537434757 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:13:01 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537434781 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:17:23 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538517600,new_create_time = 1537435043 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:18:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537435101 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:22:42 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537435362 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:23:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537435395 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:23:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537435412 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:23:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537435420 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:24:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537435486 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:31:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537435877 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:34:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537436081 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:35:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539813600,new_create_time = 1537436126 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:35:48 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537436148 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:36:11 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539122400,new_create_time = 1537436171 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:40:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537436437 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:43:08 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537436588 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:48:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540591200,new_create_time = 1537436883 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:48:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537436911 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:50:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537437003 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:50:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537437034 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:51:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537437093 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:54:05 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537437245 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:54:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538344800,new_create_time = 1537437277 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:54:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537437299 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:55:44 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537437344 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:55:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1537437352 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:56:50 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537437410 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 09:57:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537437460 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:01:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537480800,new_create_time = 1537437714 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:02:59 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537437779 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:05:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537437943 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:07:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537438037 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:07:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537438061 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:09:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537438170 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:10:51 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538690400,new_create_time = 1537438251 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:11:14 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537438274 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:14:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537438477 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:19:19 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537438759 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:19:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537438781 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:20:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541631600,new_create_time = 1537438809 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:22:32 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537438952 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:23:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537438995 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:27:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537439238 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:27:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538344800,new_create_time = 1537439253 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:27:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537439260 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:28:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539727200,new_create_time = 1537439283 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:30:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537439437 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:31:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537439476 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:34:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537439662 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:35:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537439752 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:36:07 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537439767 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:37:57 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537439877 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:38:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537439921 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:38:56 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1537394400,new_create_time = 1537439936 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:41:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537440069 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:50:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537440610 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:50:25 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537440625 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:53:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537440814 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:55:33 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537440933 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:55:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537440940 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:58:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1537441132 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:59:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537441155 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:59:22 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1539554400,new_create_time = 1537441162 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 10:59:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537441185 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+20/09/2018 11:01:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1538258400,new_create_time = 1537441312 WHERE new_id =  /timviec1/cron/tu_get_data_rasu.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-doc-mien-lam-tai-khu-vuc-65650.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-nganh-son-nuoc-65649.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-tu-van-vien-ban-si-65641.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-tu-van-tin-dung-ngan-hang-citi-bank-65619.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65608.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-sat-kinh-doanh-nganh-son-nuoc-65601.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-dung-20-nhan-vien-lao-dong-pho-thong-65600.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-marketing-65598.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-van-phong-tong-hop-65597.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65594.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-quan-ly-quay-ban-hang-65552.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-sales-marketing-65537.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65536.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-sale-thi-truong-quan-3-cocacola-65533.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-bat-dong-san-65527.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-hanh-chinh-van-phong-65516.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/urgent-customer-advisor-tu-van-ban-hang-65509.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/urgent-shop-manager-quan-ly-cua-hang-65508.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-1-nhan-vien-kho-65501.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-ban-hang-gio-hanh-chinh-65499.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-20-nhan-vien-cham-soc-khach-hang-65493.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-quang-trung-65488.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-song-cong-so-luong-tuyen10-65487.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-bac-giang-65486.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-lao-cai-65485.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-online-cn-vinh-yen-1-65481.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-tu-van-cham-soc-khach-hang-65475.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-ctv-kinh-doanh-65469.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-sat-ban-hang-65454.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:45:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-doc-mien-nganh-son-nuoc-65423.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-doc-mien-lam-tai-khu-vuc-65650.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-nganh-son-nuoc-65649.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-tu-van-vien-ban-si-65641.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-tu-van-tin-dung-ngan-hang-citi-bank-65619.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65608.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-sat-kinh-doanh-nganh-son-nuoc-65601.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-dung-20-nhan-vien-lao-dong-pho-thong-65600.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-marketing-65598.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-van-phong-tong-hop-65597.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65594.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-quan-ly-quay-ban-hang-65552.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-sales-marketing-65537.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-65536.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-sale-thi-truong-quan-3-cocacola-65533.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-kinh-doanh-bat-dong-san-65527.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-hanh-chinh-van-phong-65516.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/urgent-customer-advisor-tu-van-ban-hang-65509.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/urgent-shop-manager-quan-ly-cua-hang-65508.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-1-nhan-vien-kho-65501.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-ban-hang-gio-hanh-chinh-65499.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-20-nhan-vien-cham-soc-khach-hang-65493.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-quang-trung-65488.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-song-cong-so-luong-tuyen10-65487.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-bac-giang-65486.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-cn-lao-cai-65485.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/tuyen-nhan-vien-ban-hang-online-cn-vinh-yen-1-65481.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-tu-van-cham-soc-khach-hang-65475.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-nhan-vien-ctv-kinh-doanh-65469.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-sat-ban-hang-65454.html','1','0) /timviec3/cron/cronnn.php
+13/10/2018 08:46:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0)' at line 1
+INSERT INTO crondetail(link,idnn,isactive) VALUES('http://vieclam.laodong.com.vn/ky-tuyen-dung/can-tuyen-giam-doc-mien-nganh-son-nuoc-65423.html','1','0) /timviec3/cron/cronnn.php
+31/10/2018 07:06:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540969612 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:16:47 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540970207 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:22:34 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1540970554 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:33:36 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971216 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:33:57 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971237 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:35:28 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971328 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:35:41 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971341 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:36:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971376 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:42:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971738 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:42:37 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543878000,new_create_time = 1540971757 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:45:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971903 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:46:12 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540971972 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:47:35 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540972055 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:48:42 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540972122 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:49:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1540972150 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 07:54:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540972471 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:00:09 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540972809 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:00:18 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1540940400,new_create_time = 1540972818 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:02:03 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1546124400,new_create_time = 1540972923 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:04:06 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973046 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:04:40 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973080 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:06:30 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973190 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:08:00 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973280 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:11:31 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1540973491 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:11:55 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1546210800,new_create_time = 1540973515 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:12:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973566 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:16:17 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973777 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:17:50 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973870 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:18:26 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540973906 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:24:57 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974297 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:28:15 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543618800,new_create_time = 1540974495 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:29:21 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541887200,new_create_time = 1540974561 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:30:16 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974616 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:30:45 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974645 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:31:52 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974712 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:32:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974766 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:33:48 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540974828 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:37:54 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1541718000,new_create_time = 1540975074 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:38:43 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1540975123 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:40:49 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543532400,new_create_time = 1540975249 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:40:58 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1546124400,new_create_time = 1540975258 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:44:46 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540975486 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:46:10 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 1543618800,new_create_time = 1540975570 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php
+31/10/2018 08:46:24 AM  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+UPDATE new SET new_han_nop = 0,new_create_time = 1540975584 WHERE new_id =  /timviec6/cron/tu_get_data_rasu.php

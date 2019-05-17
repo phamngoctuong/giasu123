@@ -1,0 +1,9 @@
+20/09/2018 01:46:25 AM File : 
+Query time : 0.6070351601
+IP:::1SELECT * FROM crawler JOIN luatwebsite ON crawler.cra_luat = luatwebsite.web_id WHERE cra_type = 0 AND web_id <> 5 ORDER BY RAND() LIMIT 1 /timviec1/cron/test_rasu.php
+03/11/2018 01:02:11 AM File : 
+Query time : 0.7780439854
+IP:::1SELECT * FROM crawler JOIN luatwebsite ON crawler.cra_luat = luatwebsite.web_id WHERE cra_type = 0 AND web_id <> 5 ORDER BY RAND() LIMIT 1 /timviec6/cron/test_rasu.php
+05/11/2018 01:13:23 AM File : 
+Query time : 0.9450540543
+IP:::1SELECT * FROM crawler JOIN luatwebsite ON crawler.cra_luat = luatwebsite.web_id WHERE cra_type = 0 AND web_id <> 5 ORDER BY RAND() LIMIT 1 /timviec6/cron/test_rasu.php

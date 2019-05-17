@@ -1,0 +1,134 @@
+/* ==========================================================View Phone============================================= */
+@media screen and (max-width:480px) {
+.row-allteacher{height: 550px;overflow: visible;}
+.row-allteacher1{height: 550px;overflow: visible;}
+.main_lc { float: left; width: 100%; margin-top: 22px; height: auto; overflow-y: scroll; border-right: 1px solid #efefef;}
+.detailnews .full.blog-content p img{display:block;width: auto!important;height:auto!important;margin:0 auto;margin-bottom:20px;}
+.main_cn {float: left;width: 100%;margin-top: 60px;}
+.views{width: auto!important,margin:10px;}
+.lh-small {padding: 17px 0;width: auto;}
+.c-small{width: auto!important; margin: 16px auto;}
+.slick-slide img{display: none;}
+.giasutieubieu .featureitem .company_logo{    width: 100%;height: 280px;overflow: hidden;margin-right: 0px;}
+.giasutieubieu .featureitem .right_item {width: 100%;}
+.home_camnang {margin-top: 50px;}
+.messenger-facebook{bottom: 150px!important}
+.messenger-facebook .fab{width:40px;height:40px;border:3px solid #6d9ce8;color:#6d9ce8;}
+.messenger-facebook .fa-facebook-messenger:before{width:30px;height:30px;font-size:35px;margin:3px;color:#6d9ce8;}
+.item_lc{min-height: 135px!important;height: auto!important}
+.giasu_logo{width: 100%!important}
+.giasu_logo a{width: 100%;height: 200px}
+.giasu_info{float: none!important;width: auto!important;min-height: 135px!important;height: auto!important;}
+.giasu_logo a img{width: 100%!important}
+
+.icon-news i{font-size:20px;margin-bottom: 3px}
+.icon-news ul{list-style:none;text-align: left;}
+.icon-news span{font-size: 15px;color: #35434e;margin-left:10px}
+/* .icon-news p{margin-top: 5px}; */
+#icon-news-footer{background-color:#027563;width:100%;height:70px;padding: 15px 0px 0px;color:white;}
+#icon-news-footer li{line-height:10px}
+#icon-news-footer .fa{color:white}
+#span-icon-news{margin-right:5px;font-size:15px;color:black;}
+#section-news{padding-bottom: 0}
+}
+/* ================================================================View big screen====================================*/
+@media screen and (max-width:768px){
+  #view1{box-shadow:none;width: auto;}
+.row-allteacher{height: 550px;overflow: visible;}
+.row-allteacher1{height: 550px;overflow: visible;}
+.main_lc { float: left; width: 100%; margin-top: 22px; height: auto; overflow-y: scroll; border-right: 1px solid #efefef;}
+.detailnews .full.blog-content p img{display:block;width: auto!important;height:auto!important;margin:0 auto;margin-bottom:20px;}
+.main_cn {float: left;width: 100%;margin-top: 60px;}
+.view{font-size: 14px; height: auto!important;text-align: center; width: 100%!important;}
+.views{width: auto!important;margin:0!important;}
+.lh-small {padding: 17px 0;width: 100%;border: none;box-shadow: none;}
+.c-small{width: auto!important; margin: 16px auto;}
+.lh-top {padding: 0 25px 13px;}
+.cb-bor {width: auto;border:none;border-radius: none;box-shadow:none;top: 30px;margin: auto auto 17px;z-index: 5;}
+.slick-slide img{display: none;}
+.giasutieubieu .featureitem .company_logo{    width: 100%;height: 280px;overflow: hidden;margin-right: 0px;}
+.giasutieubieu .featureitem .right_item {width: 100%;}
+.item_hd .money_item {float: none;font-size: 16px}
+.tit_hd{border-bottom: none}
+.giasutieubieu .item_hd{height:450px !important }
+.title_co {font-size: 16px}
+.title_new {font-size: 16px}
+.main_giaovien {margin-top: 130px;}
+.p1 .dropdown-menu:before{display: none}
+.viewleft{float: none;text-align: center;width: auto;}
+.image_gril{height: 300px;width: 300px;margin: auto;text-align: center;}
+.viewright{    margin-bottom: 50px;width: auto;}
+.item_cate{width: 100%}
+#thongtin1{display: none}
+#content-thu{margin: 20px 0 0 0!important}
+#icon-news-footer{display: none}
+#icon-news-footer1{background-color:#027563;width:100%;height:80px;padding: 15px 0px 0px;color:white;}
+#icon-news-footer1 li{line-height:10px}
+#icon-news-footer1 .fa{color:white}
+#section-news{padding-bottom: 0}
+.icon-news span{font-size: 15px;color: white;margin-left: 25px;margin-right: 25px}
+.icon-news i{font-size:30px;margin-bottom: 3px}
+#icon-news-footer2{text-align: center;}
+#icon-news-footer2{text-align: center;}
+.container.white-shadow{width: auto;}
+#view4{width: 100%}
+.detail-pic{float:none;display:block;width:auto;background:#ffffff;border:none;height:auto;border-radius:none%;padding:0;margin:0;position:relative; text-align: center}
+.detail-pic img{width:120px;height:120px;margin:auto;border-radius:50%; border: 1px solid #069d86;}
+.form_control{width: 100%}
+.title_com_com{width: 100%}
+.hannop_hs{width: 100%}
+.tit_hd.resultfindteacher .span_hd{top:70px;}
+.viewavatar{display: block!important;}
+.viewavatar1{display: none!important;}
+#col1{display: none}
+.item_lc .col-md-3.col-sm-12.padd-0 {padding-top: 10px}
+.catmore ul li{padding-top: 8px}
+#viewxx{margin-top: 120px }
+.item_lc {width: 100%;height: 200px}
+.giasu_logo{width: 50%;height: 200px}
+.box_job_search{display: none}
+.giasu_info{border: none;width: 50%;float: left;height: 200px}
+.giasu_logo a img{width: 100%;height: 200px}
+/* .messenger-facebook .fa{width:63px;height:63px;border:3px solid #6d9ce8;color:#6d9ce8;} */
+/* .messenger-facebook .fa-facebook-square:before{width:55px;height:55px;font-size:55px;margin:5px;color:#6d9ce8;} */
+}
+/*========================================================View ipad ==================================================== */
+@media screen and (min-width:768px){
+.row-allteacher{height: 550px;overflow: auto;}
+.row-allteacher1{height: 550px;overflow: auto;}
+.main_lc { float: left; width: 100%; margin-top: 22px; height: auto; overflow-y: scroll; border-right: 1px solid #efefef;}
+.giasutieubieu .featureitem .company_logo a img { width: 50%; height: auto; max-width: 100%;max-height: 100%;}
+.detailnews .full.blog-content p img{display:block;width: auto!important;height:auto!important;margin:0 auto;margin-bottom:20px;}
+nav.navbar.bootsnav ul.nav >li >a{color:#ffffff;text-transform:none;background-color:transparent !important;padding: 3px}
+#view1{box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 10px; width: auto}
+#icon-news-footer1{display: none}
+.icon-news i{font-size:20px;margin-bottom: 3px}
+.icon-news{font-size:30px:}
+.icon-news span{font-size: 15px;color: white;margin-left: 10px}
+#icon-news-footer{background-color:#027563;width:100%;text-align: center;color:white;height: 50px}
+#icon-news-footer li{margin-left:50px;line-height:5px}
+#icon-news-footer .fa{color:white}
+#span-icon-news{margin-right:5px;font-size:15px;color:black;}
+#section-news{padding-bottom: 0}
+.viewavatar{display: none!important}
+.viewavatar1{display: none!important}
+.view{font-size: 14px; height: auto!important;text-align: center; width: auto!important;}
+}
+@media screen and (min-width:1000px){
+.main_lc { float: left; width: 100%; margin-top: 22px; height: auto; overflow-y: scroll; border-right: 1px solid #efefef;}
+.detailnews .full.blog-content p img{display:block;width: auto!important;height:auto!important;margin:0 auto;margin-bottom:20px;}
+.giasutieubieu .featureitem .company_logo a img { width: 100%; height: auto; max-width: 100%;max-height: 100%;}
+.item_hd {height: auto}
+#thongtin{display: none}
+}
+
+@media screen and (min-width:1280px){
+nav.navbar.bootsnav ul.nav >li >a{color:#ffffff;text-transform:none;background-color:transparent !important;padding: 0px}
+#view1{box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 10px; width: 1100px}
+.icon-news li{float:left;margin-right:5px;}
+.icon-news i{font-size:20px;margin-bottom: 3px}
+.icon-news{font-size:20px}
+.icon-news ul{list-style:none;text-align: right;}
+.icon-news span{font-size: 15px;color: white;margin-left: 10px}
+
+}
